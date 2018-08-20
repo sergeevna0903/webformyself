@@ -1,0 +1,25 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #404040;
+    background: #f9f9f9;
+}
+header {
+    background: url("img/header-bg.jpg") center center no-repeat;
+    color: #ffffff;
+    text-align: center;
+    background-size: cover;
+    padding: 135px 20px 90px 20px;
+}
+header>h1{
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 24px;
+    font-size: 60px;
+}
+header>h3{
+    font-size: 18px;
+    margin-bottom: 50px;
+    font-style: italic;
+}
+header<p{
+    font-size: 12px;
+}
